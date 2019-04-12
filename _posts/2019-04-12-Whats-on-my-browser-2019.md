@@ -8,7 +8,7 @@ categories:
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often.
 
-#Chrome Extensions
+##Chrome Extensions
 
 In tool bar
 
@@ -89,7 +89,7 @@ Disabled
 * [Netcraft Extension](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia) : "phishing protection".
 
 
-#Firefox Add-ons
+###Firefox Add-ons
 
 I have add-on versions of the above extensions installed on Firefox, but I'm not going to list them again.
 

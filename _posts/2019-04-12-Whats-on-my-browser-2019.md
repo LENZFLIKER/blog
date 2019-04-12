@@ -51,7 +51,7 @@ In Chrome menue
 
 * [DF Tube](https://chrome.google.com/webstore/detail/mjdepdfccjgcndkmemponafgioodelna) : Do you still get kidnapped by the YouTube recommended/related algorithm? Add this for a distraction Free for YouTube experience.
 
-* [Reddit Comment Collapser](https://chrome.google.com/webstore/detail/reddit-comment-collapser/njmimaecgocggclbecipdimilidimlpl) : A more elegant solution for collapsing reddit comment trees. /shrug
+* [Reddit Comment Collapser](https://chrome.google.com/webstore/detail/reddit-comment-collapser/njmimaecgocggclbecipdimilidimlpl) : A more elegant solution for collapsing reddit comment trees.
 
 * [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) : Enhances Reddit experience.
 

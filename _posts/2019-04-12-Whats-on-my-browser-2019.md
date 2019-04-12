@@ -29,7 +29,7 @@ In tool bar
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) : Userscript manager of choice.
 
 
-In Chrome menue
+In Chrome menu
 
 * [Buster](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) : Automatically solves reCAPTCHA audio.
 
@@ -37,19 +37,19 @@ In Chrome menue
 
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp) : Change http into https.
 
-* [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) : I use this to view and edit Microsoft Word, Excel, and PowerPoint files, Google Docs, Sheets, and Slides.
+* [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) : I use this to view and edit Microsoft Word, Excel, PowerPoint files, Google Docs, Sheets, and Slides.
 
 * [MyJDownloader](https://chrome.google.com/webstore/detail/myjdownloader-browser-ext/fbcohnmimjicjdomonkcbcpbpnhggkip) : Enhances MyJdownloader features.
 
 * [Enhanced Steam](https://chrome.google.com/webstore/detail/okadibdjfemgnhjiembecghcbfknbfhg) : Enhances the Steam experience.
 
-* [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) : Enhances Internet Download Manger features.
+* [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) : Enhances Internet Download Manager features.
 
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo) : Enhances Amazon experience.
 
-* [Iridium for YouTube](https://chrome.google.com/webstore/detail/iridium-for-youtube/gbjmgndncjkjfcnpfhgidhbgokofegbl) : Enhances YouTube Experience.
+* [Iridium for YouTube](https://chrome.google.com/webstore/detail/iridium-for-youtube/gbjmgndncjkjfcnpfhgidhbgokofegbl) : Enhances YouTube experience.
 
-* [DF Tube](https://chrome.google.com/webstore/detail/mjdepdfccjgcndkmemponafgioodelna) : Do you still get kidnapped by the YouTube recommended/related algorithm? Add this for a distraction Free for YouTube experience.
+* [DF Tube](https://chrome.google.com/webstore/detail/mjdepdfccjgcndkmemponafgioodelna) : Distraction free YouTube experience.
 
 * [Reddit Comment Collapser](https://chrome.google.com/webstore/detail/reddit-comment-collapser/njmimaecgocggclbecipdimilidimlpl) : A more elegant solution for collapsing reddit comment trees.
 
@@ -67,7 +67,7 @@ In Chrome menue
 
 * [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) : Dictionary.
 
-* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies and fast accurate emoji search.
+* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies and accurate emoji search.
 
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) : Stylescript manager of choice.
 

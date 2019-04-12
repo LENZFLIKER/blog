@@ -8,10 +8,10 @@ categories:
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often.
 
-##Chrome Extensions
-
+Chrome Extensions
+-
 In tool bar
-
+======
 * [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) : Generates a QR Code from the Page URL of the current tab. This is the fastest way to copy a link to my Android from Windows.
 
 * [Kutt](https://chrome.google.com/webstore/detail/kutt/pklakpjfiegjacoppcodencchehlfnpd) : URL shortener. Free alternative to Google URL shortener.
@@ -89,8 +89,8 @@ Disabled
 * [Netcraft Extension](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia) : "phishing protection".
 
 
-###Firefox Add-ons
-
+Firefox Add-ons
+------
 I have add-on versions of the above extensions installed on Firefox, but I'm not going to list them again.
 
 In tool bar
@@ -117,8 +117,8 @@ In overflow menu
 * [VTzilla 2.0](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/) : Scan downloads with VirusTotal.
 
 
-#Userscripts
-
+Userscripts
+------
 * [TopAndDownButtonsEverywhere](https://openuserjs.org/scripts/MAX30/TopAndDownButtonsEverywhere) : Add "Top" and "Down" buttons on the right side of the webpage.
   
 * [Anti-Adblock Killer](https://openuserjs.org/scripts/reek/Anti-Adblock_Killer_Reek) : This will disable most "Disable your adblock to continue" messages.
@@ -144,7 +144,8 @@ In overflow menu
 * [Convert Youtube Embeds to Image Links](https://openuserjs.org/scripts/elundmark/Convert_Youtube_Embeds_to_Image_Links) :  Turns embedded Youtube videos into thumbnails and link.
 
 
-#Stylescripts
+Stylescripts
+------
 
 * [Clear dark facebook by book777](https://userstyles.org/styles/136318/) : Dark mode for Facebook and Messenger.
 

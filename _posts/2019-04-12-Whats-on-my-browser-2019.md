@@ -2,14 +2,11 @@
 layout: post
 title: "What's on my browser 2019"
 image: /assets/images/whatsonmyextensions.png
-excerpt_separator: "<!--more-->"
 categories:
   - What's on my tech
 ---
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often.
-
-<!--more-->
 
 ##Chrome Extensions
 

@@ -8,9 +8,10 @@ categories:
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often.
 
-##Chrome Extensions
+Chrome Extensions
+------
 
-###In tool bar
+In tool bar
 ------
 
 * [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) : Generates a QR Code from the Page URL of the current tab. This is the fastest way to copy a link to my Android from Windows.
@@ -30,7 +31,7 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) : Userscript manager of choice.
 
 
-###In Chrome menue
+In Chrome menue
 ------
 
 * [Buster](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) : Automatically solves reCAPTCHA audio.
@@ -74,7 +75,7 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) : Stylescript manager of choice.
 
 
-###Disabled
+Disabled
 ------
 
 * [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) : Batch delete, hide, unhide, unlike posts.
@@ -91,13 +92,14 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 
 * [Netcraft Extension](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia) : "phishing protection".
 
-* *Chrome IG Story: View and download Instagram Stories. | removed from webstore*
+*Chrome IG Story: View and download Instagram Stories. | removed from webstore*
 
 
-##Firefox Add-ons
+Firefox Add-ons
+------
 I have add-on versions of the above extensions installed on Firefox, but I'm not going to list them again.
 
-###In tool bar
+In tool bar
 ------
 
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr/) : Generates a QR Code from the Page URL of the current tab.
@@ -111,7 +113,7 @@ I have add-on versions of the above extensions installed on Firefox, but I'm not
 * [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) : Dark mode for every website.
 
 
-###In overflow menu
+In overflow menu
 ------
 
 * [Nano Defender](https://addons.mozilla.org/en-US/firefox/addon/nano-defender-firefox/) : An anti-adblock defuser for uBlock Origin.
@@ -123,7 +125,7 @@ I have add-on versions of the above extensions installed on Firefox, but I'm not
 * [VTzilla 2.0](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/) : Scan downloads with VirusTotal.
 
 
-##Userscripts
+Userscripts
 ------
 
 * [TopAndDownButtonsEverywhere](https://openuserjs.org/scripts/MAX30/TopAndDownButtonsEverywhere) : Add "Top" and "Down" buttons on the right side of the webpage.
@@ -151,7 +153,7 @@ I have add-on versions of the above extensions installed on Firefox, but I'm not
 * [Convert Youtube Embeds to Image Links](https://openuserjs.org/scripts/elundmark/Convert_Youtube_Embeds_to_Image_Links) :  Turns embedded Youtube videos into thumbnails and link.
 
 
-##Stylescripts
+Stylescripts
 ------
 
 * [Clear dark facebook by book777](https://userstyles.org/styles/136318/) : Dark mode for Facebook and Messenger.
@@ -170,8 +172,8 @@ I have add-on versions of the above extensions installed on Firefox, but I'm not
 
 *disabled stylescripts*
 
-* [GitHub Dark](http://userstyles.org/styles/37035)
+* [GitHub Dark](http://userstyles.org/styles/37035) : Dark mode for Github.
 
-* [Stackoverf­low Dark](http://userstyles.org/styles/35345)
+* [Stackoverflow Dark](http://userstyles.org/styles/35345) : Dark mode for Stackoverflow.
 
-* [Global dark style - changes everything to DARK](http://userstyles.org/styles/31267)
+* [Global dark style - changes everything to DARK](http://userstyles.org/styles/31267) : Dark mode everywhere.

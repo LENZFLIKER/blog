@@ -6,12 +6,12 @@ categories:
   - What's on my tech
 ---
 
-This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often.
+This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often. I have add-on versions of the Chrome extensions installed on Firefox, so I'm not going to list them twice.
 
 Chrome Extensions
--
+------
 In tool bar
-======
+
 * [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) : Generates a QR Code from the Page URL of the current tab. This is the fastest way to copy a link to my Android from Windows.
 
 * [Kutt](https://chrome.google.com/webstore/detail/kutt/pklakpjfiegjacoppcodencchehlfnpd) : URL shortener. Free alternative to Google URL shortener.
@@ -91,8 +91,6 @@ Disabled
 
 Firefox Add-ons
 ------
-I have add-on versions of the above extensions installed on Firefox, but I'm not going to list them again.
-
 In tool bar
 
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr/) : Generates a QR Code from the Page URL of the current tab.
@@ -146,7 +144,6 @@ Userscripts
 
 Stylescripts
 ------
-
 * [Clear dark facebook by book777](https://userstyles.org/styles/136318/) : Dark mode for Facebook and Messenger.
 
 * [Dark Instagram by DM](https://userstyles.org/styles/152606/) : Dark mode for Instagram.

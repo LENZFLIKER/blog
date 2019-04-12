@@ -67,7 +67,7 @@ In Chrome menue
 
 * [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) : Dictionary.
 
-* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies and fast accurate emoji search. :wink: win + ;
+* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies and fast accurate emoji search.
 
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) : Stylescript manager of choice.
 

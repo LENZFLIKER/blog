@@ -10,7 +10,7 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 
 # Chrome Extensions
 
-## In tool bar
+### In tool bar
 
 * [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb) : Generates a QR Code from the Page URL of the current tab. This is the fastest way to copy a link to my Android from Windows.
 
@@ -29,7 +29,7 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) : Userscript manager of choice.
 
 
-In Chrome menu
+### In Chrome menu
 
 * [Buster](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) : Automatically solves reCAPTCHA audio.
 
@@ -72,7 +72,7 @@ In Chrome menu
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) : Stylescript manager of choice.
 
 
-Disabled
+### Disabled
 
 * [Social Book Post Manager](https://chrome.google.com/webstore/detail/social-book-post-manager/ljfidlkcmdmmibngdfikhffffdmphjae) : Batch delete, hide, unhide, unlike posts.
 
@@ -89,9 +89,9 @@ Disabled
 * [Netcraft Extension](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia) : "phishing protection".
 
 
-Firefox Add-ons
-------
-In tool bar
+# Firefox Add-ons
+
+### In tool bar
 
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr/) : Generates a QR Code from the Page URL of the current tab.
 
@@ -104,7 +104,7 @@ In tool bar
 * [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) : Dark mode for every website.
 
 
-In overflow menu
+### In overflow menu
 
 * [Nano Defender](https://addons.mozilla.org/en-US/firefox/addon/nano-defender-firefox/) : An anti-adblock defuser for uBlock Origin.
 
@@ -115,8 +115,8 @@ In overflow menu
 * [VTzilla 2.0](https://addons.mozilla.org/en-US/firefox/addon/vtzilla/) : Scan downloads with VirusTotal.
 
 
-Userscripts
-------
+# Userscripts
+
 * [TopAndDownButtonsEverywhere](https://openuserjs.org/scripts/MAX30/TopAndDownButtonsEverywhere) : Add "Top" and "Down" buttons on the right side of the webpage.
   
 * [Anti-Adblock Killer](https://openuserjs.org/scripts/reek/Anti-Adblock_Killer_Reek) : This will disable most "Disable your adblock to continue" messages.
@@ -142,8 +142,8 @@ Userscripts
 * [Convert Youtube Embeds to Image Links](https://openuserjs.org/scripts/elundmark/Convert_Youtube_Embeds_to_Image_Links) :  Turns embedded Youtube videos into thumbnails and link.
 
 
-Stylescripts
-------
+# Stylescripts
+
 * [Clear dark facebook by book777](https://userstyles.org/styles/136318/) : Dark mode for Facebook and Messenger.
 
 * [Dark Instagram by DM](https://userstyles.org/styles/152606/) : Dark mode for Instagram.
@@ -158,7 +158,7 @@ Stylescripts
 
 * [Dark WhatsApp Theme by Mew](http://userstyles.org/styles/142096) : Dark mode for Whatsapp.
 
-Disabled
+### Disabled
 
 * [GitHub Dark](http://userstyles.org/styles/37035) : Dark mode for Github.
 

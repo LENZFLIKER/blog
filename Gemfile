@@ -1,4 +1,8 @@
 source "https://rubygems.org"
-gemspec
-gem 'jekyll-seo-tag'
-gem 'jemoji'
+
+
+group :jekyll_plugins do
+    gem 'jekyll-seo-tag'
+    gem 'jemoji'
+    gem 'jekyll-sitemap'
+end

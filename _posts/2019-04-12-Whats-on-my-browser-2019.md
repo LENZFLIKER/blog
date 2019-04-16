@@ -4,6 +4,7 @@ title: "What's on my browser 2019"
 image: /assets/images/whatsonmyextensions.png
 categories:
   - What's on my tech
+last_modified_at: 2019-04-16
 ---
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often. I have add-on versions of the Chrome extensions installed on Firefox, so I'm not going to list them twice.
@@ -67,7 +68,9 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 
 * [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) : Dictionary.
 
-* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies and accurate emoji search.
+* [Emoji Keyboard by EmojiOne](https://chrome.google.com/webstore/detail/emoji-keyboard-by-emojion/ipdjnhgkpapgippgcgkfcbpdpcgifncb) : Latest emojies.
+
+* [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki) : One-Click Online IDE for GitHub.
 
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) : Stylescript manager of choice.
 

@@ -7,7 +7,7 @@ categories:
 last_modified_at: 2019-04-16
 ---
 
-This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often. I have add-on versions of the Chrome extensions installed on Firefox, so I'm not going to list them twice. :balloon:
+This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often. I have add-on versions of the Chrome extensions installed on Firefox, so I'm not going to list them twice.
 
 # Chrome Extensions
 

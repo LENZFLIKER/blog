@@ -1,0 +1,2 @@
+# blog
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d8ed512bf704370b2f1e5e459962bf5)](https://app.codacy.com/app/lenzfliker/blog?utm_source=github.com&utm_medium=referral&utm_content=LENZFLIKER/blog&utm_campaign=Badge_Grade_Settings)

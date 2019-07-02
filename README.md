@@ -1,1 +1,1 @@
-# blog
+# lenzfliker.github.io/blog

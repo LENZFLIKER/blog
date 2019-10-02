@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "What's on my browser 2019"
+title: What's on my browser 2019
 image: /assets/images/whatsonmyextensions.png
 categories:
   - What's on my tech
-last_modified_at: 2019-04-16
+last_modified_at: {}
+published: true
 ---
 
 This is a list of extensions and add-ons I use on my main web browsers (Chrome and Firefox). This list also includes userscripts and userstyles. This list will be updated throughout the year, but I don't install new extensions that often. I have add-on versions of the Chrome extensions installed on Firefox, so I'm not going to list them twice.
@@ -168,3 +169,5 @@ This is a list of extensions and add-ons I use on my main web browsers (Chrome a
 * [Stackoverflow Dark](http://userstyles.org/styles/35345) : Dark mode for Stackoverflow.
 
 * [Global dark style - changes everything to DARK](http://userstyles.org/styles/31267) : Dark mode everywhere.
+---
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Flenzfliker.github.io%2Fblog%2Fwhat's%2520on%2520my%2520tech%2F2019%2F04%2F12%2FWhats-on-my-browser-2019.html)
